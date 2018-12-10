@@ -1,1 +1,1 @@
-# countries
+# API Automated test using JAVA + maven + Junit + RestAssured
